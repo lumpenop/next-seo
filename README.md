@@ -51,14 +51,17 @@ Next.js 로 마이그레이션을 통해 이를 해결하고자 합니다.
 
 - 코드 최적화
 
-#### 최적화 전
+#### 최적화 전 (mobile)
 
 <img width="280" alt="image" src="https://github.com/user-attachments/assets/d95838a3-d999-4555-96a7-052fae9b2082" />
 
-#### 최적화 후
+#### 최적화 후 (mobile)
 
-![image](https://github.com/user-attachments/assets/07049b1e-2b3c-4f09-81ba-eb4bd58f3445)
+![image](https://github.com/user-attachments/assets/fd0caf49-111a-4e81-87cf-39dc242abbae)
 
+#### 최적화 후 (Desktop)
+
+![image](https://github.com/user-attachments/assets/6bfcfe1b-00f7-429a-8d14-677f1d2eb42e)
 
 
 
