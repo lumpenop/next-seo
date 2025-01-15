@@ -57,7 +57,10 @@ Next.js 로 마이그레이션을 통해 이를 해결하고자 합니다.
 
 #### 최적화 후
 
-<img width="280" alt="image" src="https://github.com/user-attachments/assets/c2fe0067-b12c-412c-97fa-ea76c00bf5c1" />
+![image](https://github.com/user-attachments/assets/07049b1e-2b3c-4f09-81ba-eb4bd58f3445)
+
+
+
 
 - 메타 데이터
 
